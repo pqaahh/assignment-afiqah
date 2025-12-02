@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment1.1</string>
+    <string name="vehicle_loan_calculator">Vehicle Loan Calculator</string>
+    <string name="about">About</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="nur_afiqah_bt_othman">Nur Afiqah Bt Othman</string>
+    <string name="matrix_no_2023414606">Matrix No: 2023414606</string>
+    <string name="course_cdcs266">Course: CDCS266</string>
+    <string name="github">Github:</string>
+    <string name="https_github_com_yourusername_yourrepo">https://github.com/yourusername/yourrepo</string>
+</resources>
